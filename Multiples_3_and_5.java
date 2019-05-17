@@ -46,7 +46,7 @@ public class Solution {
                 long sum15 = 15 * d * (d + 1) / 2;
                 
                 sum = sum3 + sum5 - sum15;
-                
+                 
             System.out.println(sum);
         }
     }
