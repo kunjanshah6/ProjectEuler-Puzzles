@@ -39,7 +39,7 @@ public class Max_Palindrom_Product {
 		
 		// Take input One by One
 		for (int a0 = 0; a0 < t; a0++) {
-
+ 
 			int n = in.nextInt();
 			
 			// A list containing all palindrome product
