@@ -74,6 +74,5 @@ public class Max_Prime_factor {
 			System.out.println(i);
 		}
 		
-		
 	}
 }
